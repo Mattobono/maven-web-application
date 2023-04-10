@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.98.139.162:8081/repository/won_app_releases/</url>
+	      <url>http://99.79.59.46:8081/repository/Paypal_Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.98.139.162:8081/repository/won_app_Snapshot/</url>
+	      <url>http://99.79.59.46:8081/repository/Paypal_Snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
